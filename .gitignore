@@ -1,0 +1,25 @@
+# Build artifacts
+*.o
+*.exe
+*.out
+*.class
+*.hi
+*.beam
+_build/
+target/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+tmp/
+temp/
