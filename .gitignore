@@ -26,3 +26,4 @@ temp/
 *.ali
 *.obj
 *.ppm
+nimcache/
