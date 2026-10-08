@@ -5,6 +5,10 @@
 *.class
 *.hi
 *.beam
+*.ali
+*.obj
+*.ppm
+*.jar
 _build/
 target/
 dist/
@@ -23,7 +27,6 @@ Thumbs.db
 *.log
 tmp/
 temp/
-*.ali
-*.obj
-*.ppm
+
+# Nim
 nimcache/
