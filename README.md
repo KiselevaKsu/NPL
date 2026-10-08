@@ -34,7 +34,7 @@ NPL/
 │   └── task_4_julia/
 ├── 3_io/
 │   ├── task_1_groovy/
-│   ├── task_2_objc/
+│   ├── task_2_perl/
 │   ├── task_3_scala/
 │   └── task_4_haskell/
 ├── 4_client_server/
@@ -79,7 +79,7 @@ NPL/
 | № | Задача | Язык | Ветка |
 |---|--------|------|-------|
 | 3.1 | Консольный редактор списка контактов | Groovy | `3_task1_groovy` |
-| 3.2 | Частота слов в файле, топ-20 и отчёт | Objective-C | `3_task2_objc` |
+| 3.2 | Частота слов в файле, топ-20 и отчёт | Perl | `3_task2_objc` |
 | 3.3 | Консольный калькулятор с историей операций | Scala | `3_task3_scala` |
 | 3.4 | Поиск файлов по маске | Haskell | `3_task4_haskell` |
 
@@ -104,7 +104,7 @@ NPL/
 ## Используемые языки
 
 Ada, Clojure, D, Erlang, F#, Groovy, Haskell, Julia, Kotlin, Lua,
-Nim, Objective-C, OCaml, Prolog, Ruby, Rust, Scala, Scheme, Swift, Zig.
+Nim, Perl, OCaml, Prolog, Ruby, Rust, Scala, Scheme, Swift, Zig.
 
 ## Требования
 
