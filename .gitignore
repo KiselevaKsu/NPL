@@ -30,6 +30,12 @@ temp/
 
 # Nim
 nimcache/
-3_io/task_2_perl/input.txt
 
+# Task-specific
+3_io/task_2_perl/input.txt
 3_io/task_2_perl/wordfreq.log
+3_io/task_3_scala/history.txt
+
+# Scala CLI
+.bsp/
+.scala-build/
