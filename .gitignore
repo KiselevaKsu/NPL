@@ -23,3 +23,8 @@ Thumbs.db
 *.log
 tmp/
 temp/
+.bsp/
+
+.scala-build/
+
+3_io/task_3_scala/history.txt
