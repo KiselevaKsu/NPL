@@ -30,3 +30,6 @@ temp/
 
 # Nim
 nimcache/
+3_io/task_2_perl/input.txt
+
+3_io/task_2_perl/wordfreq.log
