@@ -43,3 +43,5 @@ nimcache/
 *.lib
 
 *.exp
+
+4_client_server/task_4_odin/server.log
