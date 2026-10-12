@@ -41,7 +41,7 @@ NPL/
 │   ├── task_1_rust/
 │   ├── task_2_erlang/
 │   ├── task_3_swift/
-│   └── task_4_scheme/
+│   └── task_4_ml/
 └── 5_convert/
     ├── task_1_clojure/
     ├── task_2_lua/
@@ -90,7 +90,7 @@ NPL/
 | 4.1 | Сервер голосования с рассылкой статистики | Rust | `4_task1_rust` |
 | 4.2 | Сервер-викторина: вопросы, ответы, процент правильных | Erlang | `4_task2_erlang` |
 | 4.3 | Сервер учёта задач с синхронизацией состояния | Swift | `4_task3_swift` |
-| 4.4 | Сервер заметок с журналированием | Scheme | `4_task4_scheme` |
+| 4.4 | Сервер заметок с журналированием | Scheme | `4_task4_ml` |
 
 ### 5. Конвертация данных (папка `5_convert/`)
 
@@ -104,7 +104,7 @@ NPL/
 ## Используемые языки
 
 Ada, Clojure, D, Erlang, F#, Groovy, Haskell, Julia, Kotlin, Lua,
-Nim, Perl, OCaml, Prolog, Ruby, Rust, Scala, Scheme, Swift, Zig.
+Nim, Perl, OCaml, Prolog, Ruby, Rust, Scala, ML, Swift, Zig.
 
 ## Требования
 
