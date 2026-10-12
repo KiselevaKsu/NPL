@@ -40,3 +40,6 @@ nimcache/
 .bsp/
 .scala-build/
 3_io/task_4_haskell/find_report.txt
+*.lib
+
+*.exp
