@@ -41,7 +41,7 @@ NPL/
 │   ├── task_1_rust/
 │   ├── task_2_erlang/
 │   ├── task_3_swift/
-│   └── task_4_ml/
+│   └── task_4_odin/
 └── 5_convert/
     ├── task_1_clojure/
     ├── task_2_lua/
@@ -79,7 +79,7 @@ NPL/
 | № | Задача | Язык | Ветка |
 |---|--------|------|-------|
 | 3.1 | Консольный редактор списка контактов | Groovy | `3_task1_groovy` |
-| 3.2 | Частота слов в файле, топ-20 и отчёт | Perl | `3_task2_objc` |
+| 3.2 | Частота слов в файле, топ-20 и отчёт | Perl | `3_task2_perl` |
 | 3.3 | Консольный калькулятор с историей операций | Scala | `3_task3_scala` |
 | 3.4 | Поиск файлов по маске | Haskell | `3_task4_haskell` |
 
@@ -90,7 +90,7 @@ NPL/
 | 4.1 | Сервер голосования с рассылкой статистики | Rust | `4_task1_rust` |
 | 4.2 | Сервер-викторина: вопросы, ответы, процент правильных | Erlang | `4_task2_erlang` |
 | 4.3 | Сервер учёта задач с синхронизацией состояния | Swift | `4_task3_swift` |
-| 4.4 | Сервер заметок с журналированием | Scheme | `4_task4_ml` |
+| 4.4 | Сервер заметок с журналированием | Odin | `4_task4_odin` |
 
 ### 5. Конвертация данных (папка `5_convert/`)
 
@@ -104,7 +104,7 @@ NPL/
 ## Используемые языки
 
 Ada, Clojure, D, Erlang, F#, Groovy, Haskell, Julia, Kotlin, Lua,
-Nim, Perl, OCaml, Prolog, Ruby, Rust, Scala, ML, Swift, Zig.
+Nim, Perl, OCaml, Prolog, Ruby, Rust, Scala, Odin, Swift, Zig.
 
 ## Требования
 
