@@ -23,3 +23,4 @@ Thumbs.db
 *.log
 tmp/
 temp/
+5_convert/task_2_lua/output.json
