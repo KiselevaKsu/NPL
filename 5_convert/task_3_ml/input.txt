@@ -1,0 +1,3 @@
+player: name=Alice level=10 score=1500
+player: name=Bob level=5 score=800
+player: name=Charlie level=20 score=3000
