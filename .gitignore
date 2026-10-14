@@ -27,6 +27,7 @@ Thumbs.db
 *.log
 tmp/
 temp/
+<<<<<<< HEAD
 
 # Nim
 nimcache/
@@ -50,3 +51,4 @@ nimcache/
 5_convert/task_3_ml/output.json
 
 5_convert/task_4_lisp/output.json
+5_convert/task_2_lua/output.json
