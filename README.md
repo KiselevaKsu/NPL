@@ -45,7 +45,7 @@ NPL/
 └── 5_convert/
     ├── task_1_clojure/
     ├── task_2_lua/
-    ├── task_3_ocaml/
+    ├── task_3_ml/
     └── task_4_zig/
 ```
 
@@ -98,13 +98,13 @@ NPL/
 |---|--------|------|-------|
 | 5.1 | CSV → HTML-таблица | Clojure | `5_task1_clojure` |
 | 5.2 | INI → JSON | Lua | `5_task2_lua` |
-| 5.3 | Пользовательский формат «список игроков» → JSON | OCaml | `5_task3_ocaml` |
+| 5.3 | Пользовательский формат «список игроков» → JSON | ML | `5_task3_ml` |
 | 5.4 | CSV → JSON | Zig | `5_task4_zig` |
 
 ## Используемые языки
 
 Ada, Clojure, D, Erlang, F#, Groovy, Haskell, Julia, Kotlin, Lua,
-Nim, Perl, OCaml, Prolog, Ruby, Rust, Scala, Odin, Swift, Zig.
+Nim, Perl, ML, Prolog, Ruby, Rust, Scala, Odin, Swift, Zig.
 
 ## Требования
 
